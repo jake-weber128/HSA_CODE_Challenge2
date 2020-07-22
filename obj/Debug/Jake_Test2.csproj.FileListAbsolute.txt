@@ -1,0 +1,9 @@
+C:\Users\jake\source\repos\Jake_Test2\bin\Debug\Jake_Test2.exe.config
+C:\Users\jake\source\repos\Jake_Test2\bin\Debug\Jake_Test2.exe
+C:\Users\jake\source\repos\Jake_Test2\bin\Debug\Jake_Test2.pdb
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.Form1.resources
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.Properties.Resources.resources
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.csproj.GenerateResource.cache
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.csproj.CoreCompileInputs.cache
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.exe
+C:\Users\jake\source\repos\Jake_Test2\obj\Debug\Jake_Test2.pdb
